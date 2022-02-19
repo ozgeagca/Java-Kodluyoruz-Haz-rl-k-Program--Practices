@@ -1,2 +1,2 @@
-# Java-Kodluyoruz-Haz-rl-k-Program--Practices
+# Java-Kodluyoruz-Hazirlik-Programi-Practices
 Hazırlık programı içerisinde yaptığım alıştırmaları içerir.
